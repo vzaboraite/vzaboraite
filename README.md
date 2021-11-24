@@ -38,8 +38,3 @@ Here are some ideas to get you started:
 <a href="https://github.com/vzaboraite/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vzaboraite&show_icons=true&theme=tokyonight&langs_count=8" />
 </a>
-
-<!-- [![Viktorija's wakatime stats] -->
-<a href="https://github.com/vzaboraite/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime/?username=vktrjml&layout=compact&theme=tokyonight" />
-</a>
